@@ -1,5 +1,7 @@
 # SHL Assessment Recommender
 
+**Live Demo:** [https://rag-system-frontend-nine.vercel.app/](https://rag-system-frontend-nine.vercel.app/)
+
 An AI-powered conversational agent that helps hiring managers find the right SHL assessments for any role. Built with a RAG (Retrieval-Augmented Generation) pipeline on top of the full SHL product catalog.
 
 ---
