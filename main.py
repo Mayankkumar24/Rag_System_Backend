@@ -90,7 +90,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(title="SHL Assessment Recommender", version="1.0.0", lifespan=lifespan)
 
 origins = [
-    "http://localhost:5173"
+    "https://rag-system-frontend-nine.vercel.app"
 ]
 
 app.add_middleware(
